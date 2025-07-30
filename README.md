@@ -9,7 +9,9 @@ I am a passionate data scientist focused on the entire machine learning lifecycl
 
 ---
 ### 🛠️ My Tech Stack
-_[You can list your tech stack here using icons or text, e.g., Python, PyTorch, Scikit-learn, etc.]_
+- Python
+- PyTorch
+- Scikit-learn
 
 ---
 ### 🚀 Featured Project: OKCupid Age Predictor
@@ -42,5 +44,5 @@ The final model's feature importance chart, confirming that life-stage indicator
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kokirikaleb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kokirikaleb&show_icons=true&theme=dracula&include_all_commits=true" alt="GitHub Stats"/>
 </p>
