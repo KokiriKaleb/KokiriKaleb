@@ -5,7 +5,7 @@ I am a passionate data scientist focused on the entire machine learning lifecycl
 
 - 🔭 I’m currently seeking full-time opportunities in Machine Learning and AI Engineering.
 - 🌱 I’m deepening my expertise in Large Language Models (LLMs) and Generative AI.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-username/) | your.email@example.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kaleb-hogan/) | kalebhogan36@gmail.com
 
 ---
 ### 🛠️ My Tech Stack
@@ -42,5 +42,5 @@ The final model's feature importance chart, confirming that life-stage indicator
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kokirikaleb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
