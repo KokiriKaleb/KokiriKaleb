@@ -33,7 +33,7 @@ Deployment: Deployed the final model as an interactive web application using Fla
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Live_Demo-D9534F%3Fstyle%3Dfor-the-badge%26logo%3DRender" alt="Live Demo"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.google.com/search?q=https://github.com/your-username/OKCupid-Date-A-Scientist-Starter">
+<a href="https://www.google.com/search?q=https://github.com/kokiri-kaleb/OKCupid-Date-A-Scientist-Starter">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Code-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub" alt="View Code"/>
 </a>
 &nbsp;&nbsp;
