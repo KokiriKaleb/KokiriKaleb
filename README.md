@@ -28,7 +28,7 @@ This is a complete, end-to-end data science project that demonstrates my ability
     <img src="https://img.shields.io/badge/Live_Demo-D9534F?style=for-the-badge&logo=Render" alt="Live Demo"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/your-username/OKCupid-Date-A-Scientist-Starter">
+  <a href="https://github.com/kokirikaleb/OKCupid-Date-A-Scientist-Starter">
     <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
   </a>
   &nbsp;&nbsp;
