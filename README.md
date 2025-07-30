@@ -41,8 +41,3 @@ This is a complete, end-to-end data science project that demonstrates my ability
 
 The final model's feature importance chart, confirming that life-stage indicators are the strongest predictors of age.
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kokirikaleb&show_icons=true&theme=dracula&include_all_commits=true" alt="GitHub Stats"/>
-</p>
