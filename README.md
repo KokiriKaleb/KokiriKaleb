@@ -10,7 +10,9 @@ I am a passionate data scientist focused on the entire machine learning lifecycl
 ---
 ### 🛠️ My Tech Stack
 - Python
-- PyTorch
+- Pandas
+- SQL
+- NumPy
 - Scikit-learn
 
 ---
