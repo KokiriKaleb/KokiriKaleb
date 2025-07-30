@@ -6,7 +6,7 @@ I am a passionate data scientist focused on the entire machine learning lifecycl
 
 🌱 I’m deepening my expertise in Large Language Models (LLMs) and Generative AI.
 
-📫 How to reach me: LinkedIn | your.email@example.com
+📫 How to reach me: LinkedIn | www.linkedin.com/in/kaleb-hogan
 
 🛠️ My Tech Stack
 🚀 Featured Project: OKCupid Age Predictor
